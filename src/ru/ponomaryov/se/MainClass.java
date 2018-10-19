@@ -2,7 +2,8 @@ package ru.ponomaryov.se;
 
 public class MainClass {
 
-    public static void main(String[] args) {
+    public static void main( String[] args )
+    {
         int a = 2;
         double b = 6.5D;
         float c = 3.3F;
@@ -50,4 +51,5 @@ public class MainClass {
             System.out.println(year + " год не является високосным");
         }
     }
+
 }
