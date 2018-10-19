@@ -1,5 +1,7 @@
 package ru.ponomaryov.se;
-
+/*
+*
+ */
 public class MainClass {
 
     public static void main(String[] args) {
@@ -51,3 +53,6 @@ public class MainClass {
         }
     }
 }
+/*
+*
+*/
